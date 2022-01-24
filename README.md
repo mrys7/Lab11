@@ -14,7 +14,7 @@ Ze względu na użycie dość małych ilości danych, tytuły są czasami dziwne
 <br>![](kot2.PNG)<br>
 
 #### 2. Program do rozpoznawania obiektów na zdjęciu
-<br>![](catpredict.PNG)<br>
+![](catpredict.PNG)<br>
 <br>![](catpredict2.PNG)<br>
 
 ## Źródło
